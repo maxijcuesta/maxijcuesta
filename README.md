@@ -9,6 +9,9 @@
 <h3 align="center">Solo un Cientifico de Datos</h3>
 <div><iframe src="https://giphy.com/embed/VeNDat4n4Kre76oS1g" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
+![alt-text](https://media0.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif?cid=ecf05e47iqfi0ll1mfxef46c2gt2nxb9erihqmubifn9z2yf&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
+
 - 🌱 Egresado como Analista de Datos de **Universidad Siglo 21** 🇦🇷  
 - 🌱 Egresado como Data Scientist con Python de **Platzi**
 
