@@ -8,7 +8,7 @@
 <h2 align="center">Me llamo Maximiliano Cuesta</h2>
 <h3 align="center">Solo un Cientifico de Datos</h3>
 
-![show-me-the-data](https://media0.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif?cid=ecf05e47iqfi0ll1mfxef46c2gt2nxb9erihqmubifn9z2yf&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+<p align="center"> ![show-me-the-data](https://media0.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif?cid=ecf05e47iqfi0ll1mfxef46c2gt2nxb9erihqmubifn9z2yf&ep=v1_gifs_related&rid=giphy.gif&ct=g)</p>
 
 
 
