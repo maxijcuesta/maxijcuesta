@@ -7,7 +7,7 @@
 <h1 align="center">Hello World 👋</h1>
 <h2 align="center">Me llamo Maximiliano Cuesta</h2>
 <h3 align="center">Solo un Cientifico de Datos</h3>
-<div><iframe src="https://giphy.com/embed/VeNDat4n4Kre76oS1g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div><iframe src="https://giphy.com/embed/VeNDat4n4Kre76oS1g" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 - 🌱 Egresado como Analista de Datos de **Universidad Siglo 21** 🇦🇷  
 - 🌱 Egresado como Data Scientist con Python de **Platzi**
