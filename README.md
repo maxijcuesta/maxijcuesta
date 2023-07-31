@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-+zL7jvJgK9hQJ9lIyZ6v8Zzv8xJ+Vjz9DQ+3y5U7f0Xjxk6Oq2bK9gWwZ7aJ1M0t5Q4fJ1GgNqLWp3mXrRtGw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 </head>
 <body>
 <h1 align="center">Hello World 👋</h1>
 <h2 align="center">Me llamo Maximiliano Cuesta</h2>
 <h3 align="center">Solo un Cientifico de Datos</h3>
-<div><iframe src="https://giphy.com/embed/VeNDat4n4Kre76oS1g" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
-![alt-text](https://media0.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif?cid=ecf05e47iqfi0ll1mfxef46c2gt2nxb9erihqmubifn9z2yf&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![show-me-the-data](https://media0.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif?cid=ecf05e47iqfi0ll1mfxef46c2gt2nxb9erihqmubifn9z2yf&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
+
 
 
 - 🌱 Egresado como Analista de Datos de **Universidad Siglo 21** 🇦🇷  
@@ -19,7 +20,7 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/maxijcuesta" target="blank"><i class="fab fa-twitter" alt="maxijcuesta" height="30" width="40"></i></a>
+<a href="https://twitter.com/maxijcuesta" target="blank"><i class="fa fa-twitter" alt="maxijcuesta" height="30" width="40"></i></a>
 <a href="https://www.linkedin.com/in/maxijcuesta/" target="blank"><i class="fab fa-linkedin" alt="maxijcuesta" height="30" width="40"></i></a>
 </p>
 
