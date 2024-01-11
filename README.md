@@ -1,31 +1,46 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-</head>
-<body>
-<h1 align="center">Hello World 👋</h1>
-<h2 align="center">Me llamo Maximiliano Cuesta</h2>
-<h3 align="center">Solo un Cientifico de Datos</h3>
-
-<p align="center"> ![show-me-the-data](https://media0.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif?cid=ecf05e47iqfi0ll1mfxef46c2gt2nxb9erihqmubifn9z2yf&ep=v1_gifs_related&rid=giphy.gif&ct=g)</p>
 
 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=50&center=true&vCenter=true&width=1000&lines=👋👋👋;Hello+World!!;Me+llamo+Maxi+Cuesta;Soy+Data+Scientist!)
+
+ <!------------------------------------------------------------------------->
+Soy un Analista de Sistemas con una firme inclinación hacia el ámbito de Datos, buscando integrarme a un equipo dinámico para aportar mi experiencia y aprender en roles de Data Science. Mi enfoque se ha forjado en la paciencia, autonomía, adaptabilidad y pensamiento crítico, respaldado por una formación en la Universidad Siglo XXI y experiencia en el sector de transmisión y distribución de energía.
+
+Además, me he certificado como Analista de Datos con Python, Data Scientist y me he especializado en Machine Learning a través de la Escuela de Data Science en Platzi. Mi motivación radica en aplicar estas habilidades para mejorar la productividad y generar un impacto positivo en mi campo, siempre comprometido con la excelencia técnica y la colaboración efectiva en proyectos desafiantes.
+  <!------------------------------------------------------------------------->
+
+<div align="center"> 
+<div align="center">
+<a href="https://twitter.com/maxijcuesta" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxijcuesta/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmaxi14.87@gmail.com)](mailto:cmaxi14.87@gmail.com)
+</div>
 
 
-- 🌱 Egresado como Analista de Datos de **Universidad Siglo 21** 🇦🇷  
-- 🌱 Egresado como Data Scientist con Python de **Platzi**
+  <!------------------------------------------------------------------------->
+# Herramientas y Tecnologias
+  ```mermaid
+          graph TD;
+              Data-Science-->Python;
+              Data-Science-->Git;
+              Data-Science-->Librerias;
+              Data-Science-->Tableau;
+              Data-Science-->Excel;
+              Data-Science-->SQL;
+              Data-Science-->Jupyter-Notebook;
+              Librerias-->Pandas;
+              Librerias-->Numpy;
+              Librerias-->Matplotlib;
+              Librerias-->Seaborn;
+              Librerias-->Sklearn;
 
-- 💬 Ask me about **Data Science**
+ ```
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://twitter.com/maxijcuesta" target="blank"><i class="fa fa-twitter" alt="maxijcuesta" height="30" width="40"></i></a>
-<a href="https://www.linkedin.com/in/maxijcuesta/" target="blank"><i class="fab fa-linkedin" alt="maxijcuesta" height="30" width="40"></i></a>
-</p>
+ <!------------------------------------------------------------------------->
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-</body>
-</html>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxijcuesta&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ <!------------------------------------------------------------------------->
+
+ 
+ 
